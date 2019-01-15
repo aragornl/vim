@@ -1,0 +1,14 @@
+set t_Co=256
+colo molokai
+set number
+set autoindent
+set cindent
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set ruler
+syntax on
+filetype on
+"set mouse=a
+set nu
+set helplang=cn
